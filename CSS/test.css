@@ -1,0 +1,21 @@
+body{
+    background-color: yellowgreen;
+}
+h1{
+    font-size: 30px;
+    color: salmon;
+}
+h2{
+    color: red;
+    font-size: 20px;
+}
+
+.big{
+    font-size: 16px;
+}
+.uppercase{
+    color: teal;
+}
+h1 span{
+    color: yellow;
+}
